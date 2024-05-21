@@ -17,7 +17,8 @@ ADDONTITLE = '[COLOR neongreen][B]Neo[/B][/COLOR]Wizard'
 BUILDERNAME = 'NeoWizard'
 EXCLUDES = [ADDON_ID, 'repository.neowizard']
 # Text File with build info in it. Please read https://github.com/a4k-openproject/plugin.program.openwizard/wiki/Installing-Builds
-BUILDFILE = 'https://triumphal-ocean.000webhostapp.com/Wizard/builds.txt'
+#BUILDFILE = 'https://triumphal-ocean.000webhostapp.com/Wizard/builds.txt'
+BUILDFILE = 'https://bsreeds.github.io/plugin.program.neowizard/resources/text/builds.txt
 # How often you would like it to check for build updates in days
 # 0 being every startup of kodi
 UPDATECHECK = 0
